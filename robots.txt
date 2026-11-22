@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ruvo.krd/sitemap.xml
+Sitemap: https://zanaqadr97-source.github.io/ruvo-website/sitemap.xml
